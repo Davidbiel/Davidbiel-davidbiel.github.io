@@ -1,0 +1,53 @@
+.corpo {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.contêiner {
+    largura máxima: 400px;
+    preenchimento: 20px;
+    cor de fundo: #fff;
+    raio da borda: 8px;
+    sombra da caixa: 0 0 10px rgba (0, 0, 0, 0, 1);
+    alinhamento de texto: centro;
+}
+
+h1 {
+    cor: #333;
+}
+
+.rótulo de arquivo {
+    tamanho da fonte: 18px;
+    cor: #555;
+    exibição: bloco;
+    margem inferior: 10px;
+}
+
+.entrada de arquivo {
+    largura: 100%;
+    margem inferior: 10px;
+    preenchimento: 8px;
+    borda: 1px sólido #ccc;
+    raio da borda: 4px;
+}
+
+.botão de envio {
+    cor de fundo: #4CAF50;
+    cor branca;
+    preenchimento: 10px 20px;
+    fronteira: nenhuma;
+    raio da borda: 4px;
+    cursor: ponteiro;
+    tamanho da fonte: 16px;
+}
+
+.botão de envio: passar o mouse {
+    cor de fundo: #45a049;
+}
